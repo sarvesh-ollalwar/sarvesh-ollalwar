@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @sarvesh-ollalwar
-- 👀 I’m interested in software development and innovation.
-- 🌱 I’m currently learning new technologies and frameworks to enhance my skills.
-- 💞️ I’m looking to collaborate on exciting software projects that push boundaries.
-- 📫 How to reach me: sarveshollalwar01@gmail.com | +91 9850764896
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new coding challenges and problem-solving.
+
